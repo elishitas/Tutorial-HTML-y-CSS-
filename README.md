@@ -64,13 +64,13 @@ Como ven, para mayor fácilidad en la lectura y la estructuración del documento
 ## h1 a h6 
 Son los tags de encabezado o títulos, están pensandos del 1 al 6, para indicar la importancia del contenido y su jerarquía.
 
-  <h1>` <h1>El título más importante!</h1> `
-  <h3> ` <h3>título medianamente importante.</h3> `
-  <h6> ` <h6>El título menos importante.</h6> `
+ <h1>El título más importante!</h1> 
+ <h3>título medianamente importante.</h3> 
+ <h6>El título menos importante.</h6> 
 
 ## p
 Es el tag para los párrafos. Mostrará el texto contenido dentro en una nueva línea.
-  `<p>Soy un párrafo</p>`  `<p>Soy un párrafo</p>`
+  `<p>Soy un párrafo</p>`  
   
 ## span
 El elemento span es un contenedor de texto genérico. No inserta una nueva linea, como lo hace el elemento p. Sirve básicamente para darle estilo al texto.
@@ -94,7 +94,7 @@ Este tag representa una lista desordenada (del inglés "unordered list"). Este t
 <li>
 Son los tags que contienen los items de la lista ('list item').
 
-`  <ul>
+  <ul>
     <li>
       <span>Elemento uno</span>
     </li>
@@ -104,5 +104,5 @@ Son los tags que contienen los items de la lista ('list item').
     <li>
       <span>tercer elemento</span>
     </li>
-  </ul>`
+  </ul>
 
