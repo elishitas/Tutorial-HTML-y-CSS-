@@ -62,7 +62,7 @@ Entonces, hasta ahora, un documento HTML se ve así:
 ¿
 Como ven, para mayor fácilidad en la lectura y la estructuración del documento, el documento HTML se escribe indentando (o usando sangría) ¿Qué es [indentar](https://es.wikipedia.org/wiki/Indentaci%C3%B3n)?
 
--Todos los tags que presentamos más abajo van siempre adentro de un tag <body>-
+-Todos los tags que presentamos más abajo van siempre adentro del body-
 
 ## h1 a h6 
 Son los tags de encabezado o títulos, están pensandos del 1 al 6, para indicar la importancia del contenido y su jerarquía.
