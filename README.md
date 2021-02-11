@@ -114,5 +114,5 @@ Son los tags que contienen los items de la lista ('list item').
     <li>
       <span>tercer elemento</span>
     </li>
-  </ul>
+</ul>
 ```
