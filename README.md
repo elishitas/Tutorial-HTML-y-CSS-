@@ -98,7 +98,7 @@ Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo src 
 ```
   
 ## ul
-Este tag representa una lista desordenada (del inglés "unordered list"). Este tag está diseñado para contener otros tags de tipo item. También existe el tag <ol> que viene de "ordered list".
+Este tag representa una lista desordenada (del inglés "unordered list"). Este tag está diseñado para contener otros tags de tipo item. También existe el tag <ol>.
 
 ## li
 Son los tags que contienen los items de la lista ('list item').
