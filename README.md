@@ -41,13 +41,15 @@ Es el título de la página, se mostrará en el tab del browser o en la parte su
 En este tag estára encerrado todo lo que querramos que se vea en la pantalla.
 
 Entonces, hasta ahora, un documento HTML se ve así:
+
+```
 <!DOCTYPE html>
 <html>
 
-` <head>
-    <title>
-        My Website
-    </title>
+ <head>
+     <title>
+         My Website
+     </title>
 </head>
 
 <body>
@@ -55,18 +57,23 @@ Entonces, hasta ahora, un documento HTML se ve así:
 </body>
 
 </html> 
-`
+```
 
-Como ven, para mayor fácilidad en la lectura y la estructuración del documento, el documento HTML se escribe indentando (o usando sangría).
+¿
+Como ven, para mayor fácilidad en la lectura y la estructuración del documento, el documento HTML se escribe indentando (o usando sangría) ¿Qué es [indentar](https://es.wikipedia.org/wiki/Indentaci%C3%B3n)?
 
-(Todos los tags que presentaremos más abajo van siempre adentro de un tag <body>)
+-Todos los tags que presentamos más abajo van siempre adentro de un tag <body>-
 
 ## h1 a h6 
 Son los tags de encabezado o títulos, están pensandos del 1 al 6, para indicar la importancia del contenido y su jerarquía.
 
- <h1>El título más importante!
- <h3>título medianamente importante.
- <h6>El título menos importante.
+```
+ <h1>  El título más importante </h1>
+ 
+ <h3> El título medianamente importante.</h3>
+ 
+ <h6>El título menos importante.</h6>
+```
 
 ## p
 Es el tag para los párrafos. Mostrará el texto contenido dentro en una nueva línea.
@@ -86,15 +93,18 @@ El tag a (del inglés anchor), nos permite crear links a otros documentos y pág
 ## img
 Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo src que indica la URL de donde sacar la imagen a mostrar.
 
+```
   <img src="http://www.chicasprogramadoras.club/wp-content/uploads/2016/09/cropped-cropped-logo-chicas-1.png" />
+```
   
 ## ul
 Este tag representa una lista desordenada (del inglés "unordered list"). Este tag está diseñado para contener otros tags de tipo item. También existe el tag <ol> que viene de "ordered list".
 
-<li>
+## li
 Son los tags que contienen los items de la lista ('list item').
 
-  <ul>
+```
+<ul>
     <li>
       <span>Elemento uno</span>
     </li>
@@ -105,4 +115,4 @@ Son los tags que contienen los items de la lista ('list item').
       <span>tercer elemento</span>
     </li>
   </ul>
-
+```
