@@ -64,9 +64,9 @@ Como ven, para mayor fácilidad en la lectura y la estructuración del documento
 ## h1 a h6 
 Son los tags de encabezado o títulos, están pensandos del 1 al 6, para indicar la importancia del contenido y su jerarquía.
 
- <h1>El título más importante!</h1> 
- <h3>título medianamente importante.</h3> 
- <h6>El título menos importante.</h6> 
+ <h1>El título más importante!
+ <h3>título medianamente importante.
+ <h6>El título menos importante.
 
 ## p
 Es el tag para los párrafos. Mostrará el texto contenido dentro en una nueva línea.
