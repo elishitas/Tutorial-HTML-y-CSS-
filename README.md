@@ -6,7 +6,7 @@ Vamos a usar HTML para diseñar el 'esqueleto' de la interfaz de nuestra página
 
 ### Elementos Básicos de HTML
 
-HTML define una serie de elementos (o etiquetas, o tags) que serviran para delimitar texto, nosotras lo vamos a llamar Tag, cada tag está encerrado en   `< >` y tiene un nombre. Los tags se abren y se cierran, los tags de cerrado incluyen con un "/". Por ejemplo:
+HTML define una serie de elementos (o etiquetas, o tags) que serviran para delimitar texto, nosotras lo vamos a llamar Tag, cada tag está encerrado en   `< >` y tiene un nombre. Los tags se abren y se cierran, los tags de cuando se cierran incluyen un "/". Por ejemplo:
 
  `<element>
     ...
@@ -14,12 +14,12 @@ HTML define una serie de elementos (o etiquetas, o tags) que serviran para delim
  `
 Algunos tags html no necesitan tener nada adentro. Por lo tanto podemos abreviar su escritura y en vez de abrir y cerrar el tag, simplemente agregamos un `/` antes del `>`
 
-En pocas palabras ¿qué estamos mirando aquí? Un HTML consta de estas cosas llamadas tag
+En pocas palabras ¿qué estamos mirando aquí? Que un HTML consta de estas boquitas que abren y cierran.
 
-Por ejemplo, <html> es una etiqueta y la etiqueta de cierre para ella es </html>, lo mismo con <head>y </head>y <body>y </body>, y así sucesivamente
+Por ejemplo, `<html>` es un tag y la tag de cierre para ella es `</html>`, lo mismo con `<head>` y `</head>`, `<body>` y `</body>` y así sucesivamente
 
-Las etiquetas o tag organizan tu página y le dicen al navegador en qué consiste su página. Hay toneladas de tags, algunas que quizás nunca uses.
-Aquí hay algunas listas de tags si realmente te interesa verlas todas en este momento:
+Las etiquetas o tag organizan nuestra página y le dicen al navegador en qué consiste la misma. Hay toneladas de tags, algunas que quizás nunca uses.
+Aquí hay algunas listas de tags :
 
 [Lista de etiquetas en W3school](https://www.w3schools.com/tags/default.asp)
 
@@ -59,8 +59,7 @@ Entonces, hasta ahora, un documento HTML se ve así:
 </html> 
 ```
 
-¿
-Como ven, para mayor fácilidad en la lectura y la estructuración del documento, el documento HTML se escribe indentando (o usando sangría) ¿Qué es [indentar](https://es.wikipedia.org/wiki/Indentaci%C3%B3n)?
+Para mayor fácilidad en la lectura y la estructuración del documento el documento HTML se escribe indentando (o usando sangría) ¿Qué es [indentar](https://es.wikipedia.org/wiki/Indentaci%C3%B3n)?
 
 -Todos los tags que presentamos más abajo van siempre adentro del body-
 
@@ -98,7 +97,7 @@ Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo src 
 ```
   
 ## ul
-Este tag representa una lista desordenada (del inglés unordered list). Este tag está diseñado para contener otros tags de tipo item. También existe el tag ol que reprensentan las listas en HTML ordenadas.
+Este tag representa una lista desordenada (del inglés unordered list). Etá diseñado para contener otros tags de tipo item. También existe el tag ol que reprensentan las listas en HTML ordenadas.
 
 ## li
 Son los tags que contienen los items de la lista ('list item').
