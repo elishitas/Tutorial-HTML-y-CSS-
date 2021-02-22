@@ -115,10 +115,27 @@ Son los tags que contienen los items de la lista ('list item').
     </li>
 </ul>
 ```
-# ¡Recapitulamos!
+## ¡Recapitulamos!
 A modo de resumen vamos a escribir las etiquetas que estuvimos usando:
 
 - Tag Nombre del elemento (ejemplo `a`)
 - Atributo Modificadores de HTML (ejemplo `href`)
 - Valor Valor aplicado a un atributo (ejemplo `http:/clubdechicas.dev`)
 - Elemento Todo lo que se encuentra dentro de la etiqueta HTML: atributos, valores y contenido
+
+Ejemplo
+ `tag attibute=""
+``` <tag attribute="value">element contents</tag>```
+
+# Fundamentos de CSS
+Vamos a repasar algunos conceptos básicos de CSS: Sintasis, selectores y especificidad
+
+## Sintaxis CSS
+
+Hay 3 partes principales de CSS: selectores, propiedades y valores
+
+- **Selectores**: los elementos que estan seleccionados
+- **Propiedades**: el aspecto que se está diseñando
+- **Valores**: el estilo que se aplica
+
+![1](https://i.imgur.com/iZVjCec.png)
