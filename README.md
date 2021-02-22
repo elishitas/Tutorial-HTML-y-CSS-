@@ -115,3 +115,10 @@ Son los tags que contienen los items de la lista ('list item').
     </li>
 </ul>
 ```
+# ¡Recapitulamos!
+A modo de resumen vamos a escribir las etiquetas que estuvimos usando:
+
+-Tag Nombre del elemento (ejemplo `a`)
+-Atributo Modificadores de HTML (ejemplo `href`)
+-Valor Valor aplicado a un atributo (ejemplo `http:/clubdechicas.dev`)
+-Elemento Todo lo que se encuentra dentro de la etiqueta HTML: atributos, valores y contenido
