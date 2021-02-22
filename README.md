@@ -118,10 +118,10 @@ Son los tags que contienen los items de la lista ('list item').
 ## ¡Recapitulamos!
 A modo de resumen vamos a escribir las etiquetas que estuvimos usando:
 
-- Tag Nombre del elemento (ejemplo `a`)
-- Atributo Modificadores de HTML (ejemplo `href`)
-- Valor Valor aplicado a un atributo (ejemplo `http:/clubdechicas.dev`)
-- Elemento Todo lo que se encuentra dentro de la etiqueta HTML: atributos, valores y contenido
+- Tag: Nombre del elemento (ejemplo `a`)
+- Atributo: Modificadores de HTML (ejemplo `href`)
+- Valor: Valor aplicado a un atributo (ejemplo `http:/clubdechicas.dev`)
+- Elemento: Todo lo que se encuentra dentro de la etiqueta HTML: atributos, valores y contenido
 
 Ejemplo
  `tag attibute=""
@@ -146,10 +146,10 @@ Esto hará que todos los `h1` tag sean azules
 
 Desde el **menos especifico** al **más específico** (lo vemos más adelante) estos son los principales selectores:
 
-- **Selector Universal** Seleccional todos los los elementos
-- **Selector de Tipo** Apunta a los elementos por etiquetas de HTML (inclute **pseudo elementos**)
-- **Selector de clases**, **Selector de atributos** Elementos de destino por clase o atributo (incluye **pseudo elementos** )
-- **Selector ID** Apunta a un elemento po ID
+- **Selector Universal**: Seleccional todos los los elementos
+- **Selector de Tipo**: Apunta a los elementos por etiquetas de HTML (inclute **pseudo elementos**)
+- **Selector de clases**, **Selector de atributos**: Elementos de destino por clase o atributo (incluye **pseudo elementos** )
+- **Selector ID**: Apunta a un elemento po ID
 
 ![1](https://i.imgur.com/rjtwoGL.png)
 
