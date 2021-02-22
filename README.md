@@ -178,7 +178,7 @@ Es bueno saberlo:
 
 Ahora vamos a ver algunos conceptos para tener más claro estas propiedades:
 
-## Espaciado: rellenos y márgenes
+## Espaciado: padding y margin
 
 Las dos propiedades principales: `padding` y `margin`
 
