@@ -139,3 +139,53 @@ Hay 3 partes principales de CSS: selectores, propiedades y valores
 - **Valores**: el estilo que se aplica
 
 ![1](https://i.imgur.com/iZVjCec.png)
+
+Esto hará que todos los `h1` tag sean azules
+
+# CSS Selectores
+
+Desde el **menos especifico** al **más específico** (lo vemos más adelante) estos son los principales selectores:
+
+- **Selector Universal** Seleccional todos los los elementos
+- **Selector de Tipo** Apunta a los elementos por etiquetas de HTML (inclute **pseudo elementos**)
+- **Selector de clases**, **Selector de atributos** Elementos de destino por clase o atributo (incluye **pseudo elementos** )
+- **Selector ID** Apunta a un elemento po ID
+
+![1](https://i.imgur.com/rjtwoGL.png)
+
+Los **pseudo elementos** tienen dos dos puntos (`::`, o `::before`) y las **pseudo clases** tiene un solo dos puntos (`:`, o `:hover`)
+
+## Propiedades CSS
+
+Aquí hay una lista de la mayoría de las propiedades que creo que son esenciales para conocer CSS
+
+El mínimo para poder hacer cualquier cosa:
+
+- `padding`, `margin`, `border`
+- `background`
+- `color`, `font-family`, `font-weight`, `font-size`, `line-height`
+- `width`, `height`, `max-width`, `max-height`
+
+Conceptos básicos de diseño:
+
+- `position`, `z-index`, `top`, `right`, `bottom`, `left`
+- `display`, `flex`, `align-items`, `justify-content`
+- `@media`
+
+Es bueno saberlo:
+- `grid`
+- `transform`, `transition`
+
+Ahora vamos a ver algunos conceptos para tener más claro estas propiedades:
+
+## Espaciado: rellenos y márgenes
+
+Las dos propiedades principales: `padding` y `margin`
+
+- El `padding` (relleno en español) se usa como bien dice la palabra para rellenar el interior de un elemento (dentro del borde)
+- El `margin` (margen en español) se usa para separar elementos (fuera del borde)
+
+``` En Developer Tools el contenido se representa en azul, el padding se representa en verde y los margenes en naranja ``` 
+
+![1](https://i.imgur.com/Az50G0a.png)
+
