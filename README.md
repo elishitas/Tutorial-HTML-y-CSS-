@@ -189,3 +189,10 @@ Las dos propiedades principales: `padding` y `margin`
 
 ![1](https://i.imgur.com/Az50G0a.png)
 
+El orden de anidación de un elemento es el siguiente: 
+
+- Contenido del elemento -> `padding`->`border`->`margin`
+
+Entonces si queremos un cuadrado con border y margen:
+
+![1](https://i.imgur.com/ARE4LVc.png)
