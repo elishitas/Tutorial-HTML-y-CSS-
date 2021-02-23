@@ -101,7 +101,7 @@ Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo src 
 El tag `li` define un elemento de la lista. Se usa dentro de listas ordenadas `ol`y en las listas desordenadas `ul` 
 
 ## ol y ul
-Una lista HTML ordenada (<ol>) y una desordenada (<ul>):
+Una lista HTML ordenada `ol` y una desordenada `ul`
 
 ```
 <ol>
@@ -116,6 +116,7 @@ Una lista HTML ordenada (<ol>) y una desordenada (<ul>):
   <li>Milk</li>
 </ul>
 ```
+
 
 ## ¡Recapitulamos!
 A modo de resumen vamos a escribir las etiquetas que estuvimos usando:
