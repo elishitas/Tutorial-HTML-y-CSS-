@@ -103,20 +103,7 @@ El tag `li` define un elemento de la lista. Se usa dentro de listas ordenadas `o
 ## ol y ul
 Una lista HTML ordenada `ol` y una desordenada `ul`
 
-```
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
-
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-```
-
+![1](https://i.imgur.com/MJREDHQ.png)
 
 ## ¡Recapitulamos!
 A modo de resumen vamos a escribir las etiquetas que estuvimos usando:
