@@ -75,7 +75,8 @@ Son los tags de encabezado o títulos, están pensandos del 1 al 6, para indicar
 ```
 
 ## p
-Es el tag para los párrafos. Mostrará el texto contenido dentro en una nueva línea.
+Es el tag para los párrafos: 
+
   `<p>Soy un párrafo</p>`  
   
 ## span
@@ -87,7 +88,7 @@ El elemento div es un contenedor genérico. Es usado principalmente para dar est
 ## a
 El tag a (del inglés anchor), nos permite crear links a otros documentos y páginas. Este tag recibe el atributo href que indica a dónde apunta el link.
 
-  `<a href="http://www.chicasprogramadoras.club/!</a>` 
+  `<a href="http://www.chicasprogramadoras.club>Visita el Club de Chicas Programadoras!</a>` 
 
 ## img
 Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo src que indica la URL de donde sacar la imagen a mostrar.
@@ -96,25 +97,14 @@ Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo src 
   <img src="http://www.chicasprogramadoras.club/wp-content/uploads/2016/09/cropped-cropped-logo-chicas-1.png" />
 ```
   
-## ul
-Este tag representa una lista desordenada (del inglés unordered list). Etá diseñado para contener otros tags de tipo item. También existe el tag ol que reprensentan las listas en HTML ordenadas.
-
 ## li
-Son los tags que contienen los items de la lista ('list item').
+El tag `li` define un elemento de la lista. Se usa dentro de listas ordenadas `ol`y en las listas desordenadas `ul` 
 
-```
-<ul>
-    <li>
-      <span>Elemento uno</span>
-    </li>
-    <li>
-      <p>Podemos anidar cualquier tipo de tag adentro</p>
-    </li>
-    <li>
-      <span>tercer elemento</span>
-    </li>
-</ul>
-```
+## ol y ul
+Una lista HTML ordenada `ol` y una desordenada `ul`
+
+![1](https://i.imgur.com/MJREDHQ.png)
+
 ## ¡Recapitulamos!
 A modo de resumen vamos a escribir las etiquetas que estuvimos usando:
 
